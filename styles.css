@@ -1,0 +1,28 @@
+body {
+    background-color: linen;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-title {
+    color: black;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 42px;
+    border: 5px solid black;
+}
+
+.links {
+    font-size: 36px;
+
+}
+
+ul {
+    list-style-type: none;
+    line-height:200%
+}
+
+a {
+    color: black;
+}
